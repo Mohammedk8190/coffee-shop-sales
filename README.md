@@ -183,8 +183,7 @@ Explore insights interactively
 
 If you want collaboration or dashboards like this:
 
-LinkedIn: add your link here
-
+LinkedIn: www.linkedin.com/in/mohammed-k-40a78a2a4
 GitHub: https://github.com/Mohammedk8190/
 
 📝 License
