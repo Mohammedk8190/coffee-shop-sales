@@ -7,7 +7,7 @@
 This Power BI project provides a complete analysis of Coffee Shop Sales across multiple outlets.
 The dashboard helps business stakeholders understand trends in revenue, customer behavior, and product performance to support data-driven decision making.
 
-🎯 Project Objective
+🎯**Project Objective**
 
 The primary goal of this dashboard is to analyze sales and uncover insights such as:
 
@@ -23,13 +23,13 @@ Monthly and daily sales patterns
 
 Customer purchase behaviours
 
-🛠️ Tools & Technologies Used
+🛠️ **Tools & Technologies Used**
 Tool	Purpose
 Power BI Desktop	Data modeling, transformation, dashboards
 Power Query Editor	Cleaning & transforming datasets
 DAX (Data Analysis Expressions)	Calculated columns and measures
 Excel / CSV	Source data for transactions
-📂 Repository Structure
+📂 **Repository Structure**
 📦 Coffee-Shop-Sales
 │
 ├── COFFEE SHOP SALES.pbix              # Power BI Dashboard file
@@ -43,8 +43,8 @@ Excel / CSV	Source data for transactions
       ├── Insights.md
       └── DAX_Measures.md
 
-📊 Dashboard Features
-✔️ 1. KPI Cards
+📊 **Dashboard Features**
+✔️ **1. KPI Cards**
 
 Total Sales
 
@@ -56,7 +56,7 @@ Avg Bill per Customer
 
 Provides clear business performance at a glance.
 
-✔️ 2. Sales Trend Analysis
+✔️ **2. Sales Trend Analysis**
 
 Includes:
 
@@ -68,7 +68,7 @@ Peaks & dips in sales
 
 Helps understand performance over time.
 
-✔️ 3. Product Performance
+✔️ **3. Product Performance**
 
 Shows:
 
@@ -80,7 +80,7 @@ Best-selling items
 
 Useful for inventory planning and product strategy.
 
-✔️ 4. Store Location Analysis
+✔️ **4. Store Location Analysis**
 
 Compares all store branches to identify:
 
@@ -90,7 +90,7 @@ Slow-moving branches
 
 Location-based revenue differences
 
-✔️ 5. Sales by Hour & Weekday/Weekend
+✔️ **5. Sales by Hour & Weekday/Weekend**
 
 Displays:
 
@@ -102,7 +102,7 @@ Weekday vs weekend comparison
 
 Great for staffing and scheduling optimization.
 
-🧹 Data Cleaning & Transformation
+🧹 **Data Cleaning & Transformation**
 
 Performed in Power Query:
 
@@ -120,7 +120,7 @@ Day Type (Weekday/Weekend)
 
 Hour of Transaction
 
-📐 Data Model (Star Schema)
+📐 **Data Model (Star Schema)**
      Product Dimension
             │
      Store Dimension
@@ -130,7 +130,7 @@ Hour of Transaction
 
 This improves performance and enables time-intelligence calculations.
 
-🧮 Key DAX Measures
+🧮 **Key DAX Measures**
 
 Some important DAX measures used:
 
@@ -146,7 +146,7 @@ Avg Bill Per Customer = DIVIDE([Total Sales], [Total Orders])
 All DAX formulas are included inside:
 📄 /Documentation/DAX_Measures.md
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 Morning hours (7 AM – 11 AM) show the highest activity
 
@@ -158,7 +158,7 @@ Location performance varies significantly
 
 Certain days show strong seasonal patterns
 
-🚀 Business Recommendations
+🚀 **Business Recommendations**
 
 Increase staffing during peak morning hours
 
@@ -170,7 +170,7 @@ Focus marketing campaigns on low-performing stores
 
 Use seasonal trends to plan marketing and stock
 
-📥 How to Use This Project
+📥 **How to Use This Project**
 
 Download the .pbix file
 
@@ -180,7 +180,7 @@ Refresh data if using updated dataset
 
 Explore insights interactively
 
-🤝 Connect With Me
+🤝 **Connect With Me**
 
 If you want collaboration or dashboards like this:
 
