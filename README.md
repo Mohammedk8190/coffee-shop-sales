@@ -1,7 +1,8 @@
 .
 
-📊 Coffee Shop Sales – Power BI Dashboard
-📁 Project Overview
+📊 **Coffee Shop Sales – Power BI Dashboard**
+
+📁 **Project Overview**
 
 This Power BI project provides a complete analysis of Coffee Shop Sales across multiple outlets.
 The dashboard helps business stakeholders understand trends in revenue, customer behavior, and product performance to support data-driven decision making.
@@ -185,7 +186,3 @@ If you want collaboration or dashboards like this:
 
 LinkedIn: www.linkedin.com/in/mohammed-k-40a78a2a4
 GitHub: https://github.com/Mohammedk8190/
-
-📝 License
-
-This project is licensed under the MIT License, allowing free use and modification.
