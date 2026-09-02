@@ -144,7 +144,7 @@ Avg Bill Per Customer = DIVIDE([Total Sales], [Total Orders])
 
 
 All DAX formulas are included inside:
-📄 /Documentation/DAX_Measures.md
+/Documentation/DAX_Measures.md
 
 **Key Insights**
 
